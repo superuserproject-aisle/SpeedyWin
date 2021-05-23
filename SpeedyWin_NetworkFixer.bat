@@ -1,4 +1,5 @@
 @echo off
+echo SpeedyWin NetworkFixer v1.0
 echo Use this if you are having network related speed issues with your computer.
 pause
 ipconfig /flushdns
